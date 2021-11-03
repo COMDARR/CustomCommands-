@@ -18,3 +18,15 @@ Commands & permissions
 1. /nick
 2. permission: admin.setnick
 3. This command will allow you to change nickname while you are on server. (Nickname will be changed on server, the main character nick will not change)
+
+1. /modbc
+2. permission: mod.broadcast
+3. This command will broadcast an message with (Moderator) prefix.
+
+1. /adminbc
+2. permission: admin.broadcast
+3. This command will broadcast an message with (Admin) prefix.
+
+1. /ownerbc
+2. permission: owner.broadcast
+3. This command will broadcast an message with (Owner) prefix.
